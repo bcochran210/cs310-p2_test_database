@@ -7,6 +7,7 @@ import org.json.simple.*;
 public class DatabaseTest {
 
     public static JSONArray getJSONData(){
+        
         JSONArray results = null;
         
         Connection conn = null;
